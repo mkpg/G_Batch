@@ -3,6 +3,8 @@ const path = require("path");
 
 const users = [
   "prasath-vijaykumar",
+  "mkpg",
+  "Manish7sgf"
   // Add more GitHub usernames here:
   // "sanjaim25",
   // "muhil-06",
